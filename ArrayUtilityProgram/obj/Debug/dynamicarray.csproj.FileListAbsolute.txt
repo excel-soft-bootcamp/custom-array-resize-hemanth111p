@@ -1,0 +1,7 @@
+C:\Users\hemanth.p\source\repos\example\dynamicarray\bin\Debug\dynamicarray.exe.config
+C:\Users\hemanth.p\source\repos\example\dynamicarray\bin\Debug\dynamicarray.exe
+C:\Users\hemanth.p\source\repos\example\dynamicarray\bin\Debug\dynamicarray.pdb
+C:\Users\hemanth.p\source\repos\example\dynamicarray\obj\Debug\dynamicarray.csprojResolveAssemblyReference.cache
+C:\Users\hemanth.p\source\repos\example\dynamicarray\obj\Debug\dynamicarray.csproj.CoreCompileInputs.cache
+C:\Users\hemanth.p\source\repos\example\dynamicarray\obj\Debug\dynamicarray.exe
+C:\Users\hemanth.p\source\repos\example\dynamicarray\obj\Debug\dynamicarray.pdb
